@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SnjTextApp/1.0.0": {
+        "dependencies": {
+          "SnjTextLib": "1.0.0"
+        },
+        "runtime": {
+          "SnjTextApp.dll": {}
+        }
+      },
+      "SnjTextLib/1.0.0": {
+        "runtime": {
+          "SnjTextLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SnjTextApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SnjTextLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
