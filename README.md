@@ -1,2 +1,3 @@
 # Snj-Text-App
-.NET/WinForms project example of structure of project architecture - library, tests, application.
+## .NET Library + NUnit Tests + WinForms Application projects solution.
+Example of structure and architecture - library with incapsulated abstract logic level, unit tests with perfomance metrics and application with UI for text processing.
